@@ -1,6 +1,6 @@
 # Autoencoder-basic-image-compression
 
-A basic implementation of Convolutional Autoencoder for image compression on MNIST dataset.
+A basic implementation of Convolutional Autoencoder for image compression on MNIST dataset using Keras framework.
 
 ## Motivation
 
